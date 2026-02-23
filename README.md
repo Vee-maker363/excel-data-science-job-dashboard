@@ -18,7 +18,7 @@ The dashboard enables users to dynamically explore:
 
 - Number of applicants under selected criteria
 
-  [Checkout my workbook](Data_science_jobs)
+  [Checkout my workbook](Data_science_jobs.xlsx)
 
 It is important to note that this project deliberately does not emphasise deep data cleaning or normalisation. Those processes are reserved for a later project. Here, the intention was to demonstrate how analysts can still extract meaningful insights through careful function design, structured compilation, and logical filtering, even when working with imperfect or partially standardised data. 
 ## Project Objective  
@@ -106,7 +106,7 @@ Its emphasis on function-driven logic and interactive reporting reflects real-wo
 This project demonstrates how Excel can be used to build structured, interactive analytical tools through deliberate function selection and intentional dashboard design.
 
 By prioritising clarity, alignment, and interactivity, the dashboard mirrors how analysis is typically delivered in business settings. It showcases not only technical Excel capability but also an understanding of how data tools support practical decisions in hiring, career planning, and workforce strategy.  
-[Checkout my workbook](Data_science_jobs)
+[Checkout my workbook](Data_science_jobs.xlsx)
 
 
 
