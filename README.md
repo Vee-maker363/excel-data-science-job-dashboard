@@ -107,7 +107,7 @@ This project demonstrates how Excel can be used to build structured, interactive
 
 By prioritising clarity, alignment, and interactivity, the dashboard mirrors how analysis is typically delivered in business settings. It showcases not only technical Excel capability but also an understanding of how data tools support practical decisions in hiring, career planning, and workforce strategy.  
 [Checkout my workbook](Data_science_jobs.xlsx)  
-A big thank you to Luke Barousse for his free Excel for data Analytics. Checkout his course [Youtube](https://www.youtube.com/watch?v=pCJ15nGFgVg)
+A big thank you to Luke Barousse for his free Excel for data Analytics course. Checkout his free course on [Youtube](https://www.youtube.com/watch?v=pCJ15nGFgVg)
 
 
 
