@@ -77,6 +77,34 @@ The dashboard was developed alongside the calculation logic to ensure alignment 
 
 A bar chart was chosen to display median salaries by job role due to its clarity in presenting ranked comparisons, especially when evaluating multiple roles simultaneously.  
 
-<img width="939" height="603" alt="image" src="https://github.com/user-attachments/assets/2f7c555c-a6fc-4122-8dbe-a3e59b9a7101" />
+<img width="939" height="603" alt="image" src="https://github.com/user-attachments/assets/2f7c555c-a6fc-4122-8dbe-a3e59b9a7101" />  
+
+The XLOOKUP function was used extensively to connect calculation sheets to the dashboard, enabling selected criteria to drive KPI outputs and display values seamlessly. This solves the problem of retrieving context-specific values across sheets without complex nested formulas.  
+
+<img width="1897" height="725" alt="3" src="https://github.com/user-attachments/assets/2ba20b84-a8f8-4a7f-b4d9-6b19433347e5" />  
+
+# Final Layout, Design Logic, and Real-World Context
+
+The dashboard is structured into three core sections: **a criteria panel for user input**, **a central visual analysis area**, and **a KPI summary panel**. This layout follows executive dashboard design principles, enabling users to move efficiently from selection to insight.
+
+In a fast-changing labour market, decision-makers must interpret fragmented and evolving data. Tools that allow rapid comparison across roles, countries, and employment types are particularly valuable in environments shaped by skill shortages, remote work trends, and global competition.
+
+In practice, this dashboard could support:
+
+- Job seekers comparing opportunities across regions
+
+- Recruiters analysing applicant behaviour and platform usage
+
+- HR teams benchmark salaries to remain competitive
+
+Its emphasis on function-driven logic and interactive reporting reflects real-world analytical workflows, where clarity and timeliness often outweigh perfect data preparation.  
+
+# Conclusion
+
+This project demonstrates how Excel can be used to build structured, interactive analytical tools through deliberate function selection and intentional dashboard design.
+
+By prioritising clarity, alignment, and interactivity, the dashboard mirrors how analysis is typically delivered in business settings. It showcases not only technical Excel capability but also an understanding of how data tools support practical decisions in hiring, career planning, and workforce strategy.  
+[Checkout my workbook] (
+
 
 
